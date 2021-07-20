@@ -16,7 +16,7 @@
   SELECT * FROM Customers.   
   WHERE Country = 'MEXICO'; -> 나라가 멕시코인 데이터만 표현이된다. 
   
-  <>  -> 같지 않으면 
+  <>  -> 같지 않으면    
   BETWEEN a and b -> a,b 사이에 있으면 (a,b 모두 포함)     
   LIKE 's%' ->s로 시작하는 단어이면 이런 느낌    
   City IN ('Paris','London'); 여기 안에 있으면  
